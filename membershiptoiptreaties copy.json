@@ -1,0 +1,36 @@
+{
+  "title": "Membership to Intellectual Property Treaties",
+  "name": "membershiptoiptreaties",
+  "resources": [
+    {
+      "name": "membershiptoiptreaties.csv",
+      "path": "membershiptoiptreaties.csv",
+      "mediatype": "text/csv",
+      "bytes": 8361,
+      "schema": {
+        "fields": [
+          {
+            "name": "Member Name",
+            "type": "string"
+          },
+          {
+            "name": "Berne Convention - Signature Date",
+            "type": "number"
+          },
+          {
+            "name": "Berne Convention - Instrument ",
+            "type": "string"
+          },
+          {
+            "name": "Berne Convention - Instrument Date",
+            "type": "date"
+          },
+          {
+            "name": "Berne Convention - Entry Into Force - Date",
+            "type": "date"
+          }
+        ]
+      }
+    }
+  ]
+}
