@@ -13,7 +13,6 @@
     "web": "http://www.wipo.int/treaties/en/"
   }],
 
-
       "schema": {
         "fields": [
           {
@@ -22,23 +21,23 @@
           },
           {
             "name": "Beijing - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Beijing - Instrument Type",
-            "type": “string”
+            "type": "number"
           },
           {
             "name": "Beijing - Instrument Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Beijing - In Force Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Berne - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Berne - Instrument Type",
@@ -54,55 +53,55 @@
           },
           {
             "name": "Brussels - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Brussels - Instrument Type",
-            "type": “string”
+            "type": "number"
           },
           {
             "name": "Bruseels - Instrument Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Brussels - In Force Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Marrakesh - Signature",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Marrakesh - Instrument Type",
-            "type": “string”
+            "type": "number"
           },
           {
             "name": "Marrakesh - Instrument Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Marrakesh - In Force Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Phonographs - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Phonographs - Instrument Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Phonographs - Instrument Date",
-            "type": "date"
+            "type": "number"
           },
           {
             "name": "Phonographs - In Force Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Rome - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "Rome - Instrument Type",
@@ -118,7 +117,7 @@
           },
           {
             "name": "WCT - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "WCT - Instrument",
@@ -134,7 +133,7 @@
           },
           {
             "name": "WPPT - Signature Date",
-            "type": “date”
+            "type": "number"
           },
           {
             "name": "WPPT - Instrument Type",
