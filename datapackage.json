@@ -1,12 +1,12 @@
 {
-  "title": "Membership to Intellectual Property Treaties",
-  "name": "membershiptoiptreaties",
+  "title": "Membership to Copyright Treaties",
+  "name": "membershiptocopyrighttreaties",
   "resources": [
     {
       "name": "membershiptoiptreaties.csv",
       "path": "membershiptoiptreaties.csv",
       "mediatype": "text/csv",
-      "bytes": 8361,
+      "bytes": 139124,
       "schema": {
         "fields": [
           {
@@ -14,19 +14,115 @@
             "type": "string"
           },
           {
-            "name": "Berne Convention - Signature Date",
+            "name": "Berne - Signature Date",
             "type": "number"
           },
           {
-            "name": "Berne Convention - Instrument ",
+            "name": "Berne - Instrument Type",
             "type": "string"
           },
           {
-            "name": "Berne Convention - Instrument Date",
+            "name": "Berne - Instrument Date",
             "type": "date"
           },
           {
-            "name": "Berne Convention - Entry Into Force - Date",
+            "name": "Berne - Into Force Date",
+            "type": "date"
+          },
+          {
+            "name": "WCT - Signature Date",
+            "type": "number"
+          },
+          {
+            "name": "WCT - Instrument",
+            "type": "string"
+          },
+          {
+            "name": "WCT - Instrument Date",
+            "type": "date"
+          },
+          {
+            "name": "WCT - In Force Date",
+            "type": "date"
+          },
+          {
+            "name": "WPPT - Signature Date",
+            "type": "number"
+          },
+          {
+            "name": "WPPT - Instrument Type",
+            "type": "string"
+          },
+          {
+            "name": "WPPT - Instrument Date",
+            "type": "date"
+          },
+          {
+            "name": "WPPT - In Force Date",
+            "type": "date"
+          },
+          {
+            "name": "MVIP - Signature",
+            "type": "number"
+          },
+          {
+            "name": "MVIP - Instrument Type",
+            "type": "number"
+          },
+          {
+            "name": "MVIP - Instrument Date",
+            "type": "number"
+          },
+          {
+            "name": "MVIP - In Force Date",
+            "type": "number"
+          },
+          {
+            "name": "BAP - Signature Date",
+            "type": "number"
+          },
+          {
+            "name": "BAP - Instrument Type",
+            "type": "number"
+          },
+          {
+            "name": "BAP - Instrument Date",
+            "type": "number"
+          },
+          {
+            "name": "BAP - In Force Date",
+            "type": "number"
+          },
+          {
+            "name": "Phonographs - Signature Date",
+            "type": "number"
+          },
+          {
+            "name": "Phonographs - Instrument Date",
+            "type": "number"
+          },
+          {
+            "name": "Phonographs - Instrument Date",
+            "type": "number"
+          },
+          {
+            "name": "Phonographs - In Force Date",
+            "type": "number"
+          },
+          {
+            "name": "Rome - Signature Date",
+            "type": "number"
+          },
+          {
+            "name": "Rome - Instrument Type",
+            "type": "string"
+          },
+          {
+            "name": "Rome - Instrument Date",
+            "type": "date"
+          },
+          {
+            "name": "Rome - In Force Date",
             "type": "date"
           }
         ]
