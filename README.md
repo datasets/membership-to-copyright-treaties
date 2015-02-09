@@ -10,6 +10,6 @@ This data provides the details of the membership by states to WIPO administered 
 
 ## Source
 
-The data was taken from the tables found on WIPO’s website, it’s free and can be viewed for each treaty individually from [this link](wipo.int/treaties/en/).
+The data is taken from the tables found on WIPO’s website, it’s free and can be viewed for each treaty individually from [this link](wipo.int/treaties/en/).
 
-Note that WIPO administers other intellectual property that cover subject matter outside copyright (e.g. Trademarks) which are not included in this data package.
+Note that WIPO administers other intellectual property treaties that cover subject matter outside copyright (e.g. rrademarks) which are not included in this data package.
