@@ -3,10 +3,17 @@
   "name": "membershiptocopyrighttreaties",
   "resources": [
     {
-      "name": "membershiptoiptreaties.csv",
-      "path": "membershiptoiptreaties.csv",
+      "name": "membershiptocopyrighttreaties.csv",
+      "path": "membershiptocopyrighttreaties.csv",
       "mediatype": "text/csv",
-      "bytes": 27824,
+      "bytes": 30918,
+
+  "sources": [{
+    "name": “World Intellectual Property Organization“,
+    "web": "http://www.wipo.int/treaties/en/"
+  }],
+
+
       "schema": {
         "fields": [
           {
@@ -14,8 +21,24 @@
             "type": "string"
           },
           {
+            "name": "Beijing - Signature Date",
+            "type": “date”
+          },
+          {
+            "name": "Beijing - Instrument Type",
+            "type": “string”
+          },
+          {
+            "name": "Beijing - Instrument Date",
+            "type": “date”
+          },
+          {
+            "name": "Beijing - In Force Date",
+            "type": “date”
+          },
+          {
             "name": "Berne - Signature Date",
-            "type": "number"
+            "type": “date”
           },
           {
             "name": "Berne - Instrument Type",
@@ -30,8 +53,72 @@
             "type": "date"
           },
           {
+            "name": "Brussels - Signature Date",
+            "type": “date”
+          },
+          {
+            "name": "Brussels - Instrument Type",
+            "type": “string”
+          },
+          {
+            "name": "Bruseels - Instrument Date",
+            "type": “date”
+          },
+          {
+            "name": "Brussels - In Force Date",
+            "type": “date”
+          },
+          {
+            "name": "Marrakesh - Signature",
+            "type": “date”
+          },
+          {
+            "name": "Marrakesh - Instrument Type",
+            "type": “string”
+          },
+          {
+            "name": "Marrakesh - Instrument Date",
+            "type": “date”
+          },
+          {
+            "name": "Marrakesh - In Force Date",
+            "type": “date”
+          },
+          {
+            "name": "Phonographs - Signature Date",
+            "type": “date”
+          },
+          {
+            "name": "Phonographs - Instrument Date",
+            "type": “date”
+          },
+          {
+            "name": "Phonographs - Instrument Date",
+            "type": "date"
+          },
+          {
+            "name": "Phonographs - In Force Date",
+            "type": “date”
+          },
+          {
+            "name": "Rome - Signature Date",
+            "type": “date”
+          },
+          {
+            "name": "Rome - Instrument Type",
+            "type": "string"
+          },
+          {
+            "name": "Rome - Instrument Date",
+            "type": "date"
+          },
+          {
+            "name": "Rome - In Force Date",
+            "type": "date"
+          },
+          {
             "name": "WCT - Signature Date",
-            "type": "number"
+            "type": “date”
           },
           {
             "name": "WCT - Instrument",
@@ -47,7 +134,7 @@
           },
           {
             "name": "WPPT - Signature Date",
-            "type": "number"
+            "type": “date”
           },
           {
             "name": "WPPT - Instrument Type",
@@ -59,70 +146,6 @@
           },
           {
             "name": "WPPT - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "MVIP - Signature",
-            "type": "number"
-          },
-          {
-            "name": "MVIP - Instrument Type",
-            "type": "number"
-          },
-          {
-            "name": "MVIP - Instrument Date",
-            "type": "number"
-          },
-          {
-            "name": "MVIP - In Force Date",
-            "type": "number"
-          },
-          {
-            "name": "BAP - Signature Date",
-            "type": "number"
-          },
-          {
-            "name": "BAP - Instrument Type",
-            "type": "number"
-          },
-          {
-            "name": "BAP - Instrument Date",
-            "type": "number"
-          },
-          {
-            "name": "BAP - In Force Date",
-            "type": "number"
-          },
-          {
-            "name": "Phonographs - Signature Date",
-            "type": "number"
-          },
-          {
-            "name": "Phonographs - Instrument Date",
-            "type": "number"
-          },
-          {
-            "name": "Phonographs - Instrument Date",
-            "type": "number"
-          },
-          {
-            "name": "Phonographs - In Force Date",
-            "type": "number"
-          },
-          {
-            "name": "Rome - Signature Date",
-            "type": "number"
-          },
-          {
-            "name": "Rome - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "Rome - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Rome - In Force Date",
             "type": "date"
           }
         ]
