@@ -7,6 +7,10 @@
                   "path": "membershiptocopyrighttreaties.csv",
                   "mediatype": "text/csv",
                   "bytes": 30923,
+                  "sources": [{
+                              "name": "World Intellectual Property Organization",
+                              "web": "wipo.int/treaties/en/"
+                              }],
                   "schema": {
                   "fields": [
                              {
