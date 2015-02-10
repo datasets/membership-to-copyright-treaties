@@ -1,154 +1,148 @@
 {
-  "title": "Membership to Copyright Treaties",
-  "name": "membershiptocopyrighttreaties",
-  "resources": [
-    {
-      "name": "membershiptocopyrighttreaties.csv",
-      "path": "membershiptocopyrighttreaties.csv",
-      "mediatype": "text/csv",
-      "bytes": 30918,
-
-  "sources": [{
-    "name": "World Intellectual Property Organization",
-    "web": "http://www.wipo.int/treaties/en/"
-  }],
-
-      "schema": {
-        "fields": [
-          {
-            "name": "Member Name",
-            "type": "string"
-          },
-          {
-            "name": "Beijing - Signature Date",
-            "type": "date"
-          },
-          {
-            "name": "Beijing - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "Beijing - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Beijing - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "Berne - Signature Date",
-            "type": "date"
-          },
-          {
-            "name": "Berne - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "Berne - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Berne - Into Force Date",
-            "type": "date"
-          },
-          {
-            "name": "Brussels - Signature Date",
-            "type": "date"
-          },
-          {
-            "name": "Brussels - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "Bruseels - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Brussels - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "Marrakesh - Signature",
-            "type": "date"
-          },
-          {
-            "name": "Marrakesh - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "Marrakesh - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Marrakesh - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "Phonographs - Signature Date",
-            "type": "date"
-          },
-          {
-            "name": "Phonographs - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Phonographs - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Phonographs - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "Rome - Signature Date",
-            "type": "number"
-          },
-          {
-            "name": "Rome - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "Rome - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "Rome - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "WCT - Signature Date",
-            "type": "number"
-          },
-          {
-            "name": "WCT - Instrument",
-            "type": "string"
-          },
-          {
-            "name": "WCT - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "WCT - In Force Date",
-            "type": "date"
-          },
-          {
-            "name": "WPPT - Signature Date",
-            "type": "number"
-          },
-          {
-            "name": "WPPT - Instrument Type",
-            "type": "string"
-          },
-          {
-            "name": "WPPT - Instrument Date",
-            "type": "date"
-          },
-          {
-            "name": "WPPT - In Force Date",
-            "type": "date"
-          }
-        ]
-      }
-    }
-  ]
+    "title": "Membership to Copyright Treaties",
+    "name": "membershiptocopyrighttreaties",
+    "resources": [
+                  {
+                  "name": "membershiptocopyrighttreaties.csv",
+                  "path": "membershiptocopyrighttreaties.csv",
+                  "mediatype": "text/csv",
+                  "bytes": 30923,
+                  "schema": {
+                  "fields": [
+                             {
+                             "name": "Member Name",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Beijing - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Beijing - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Beijing - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Beijing - In Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Berne - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Berne - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Berne - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Berne - Into Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Brussels - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Brussels - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Bruseels - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Brussels - In Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Marrakesh - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Marrakesh - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Marrakesh - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Marrakesh - In Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Phonographs - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Phonographs - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Phonographs - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Phonographs - In Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Rome - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Rome - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "Rome - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "Rome - In Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "WCT - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "WCT - Instrument",
+                             "type": "string"
+                             },
+                             {
+                             "name": "WCT - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "WCT - In Force Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "WPPT - Signature Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "WPPT - Instrument Type",
+                             "type": "string"
+                             },
+                             {
+                             "name": "WPPT - Instrument Date",
+                             "type": "date"
+                             },
+                             {
+                             "name": "WPPT - In Force Date",
+                             "type": "date"
+                             }
+                             ]
+                  }
+                  }
+                  ]
 }
