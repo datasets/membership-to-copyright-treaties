@@ -21,23 +21,23 @@
           },
           {
             "name": "Beijing - Signature Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Beijing - Instrument Type",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Beijing - Instrument Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Beijing - In Force Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Berne - Signature Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Berne - Instrument Type",
@@ -53,51 +53,51 @@
           },
           {
             "name": "Brussels - Signature Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Brussels - Instrument Type",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Bruseels - Instrument Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Brussels - In Force Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Marrakesh - Signature",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Marrakesh - Instrument Type",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Marrakesh - Instrument Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Marrakesh - In Force Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Phonographs - Signature Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Phonographs - Instrument Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Phonographs - Instrument Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Phonographs - In Force Date",
-            "type": "number"
+            "type": "date"
           },
           {
             "name": "Rome - Signature Date",
