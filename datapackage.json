@@ -9,16 +9,21 @@
       "id": "ODC-PDDL-1.0"
     }
   ],
+    
+  "sources": [
+    {
+                "name": "World Intellectual Property Organization",
+                "web": "wipo.int/treaties/en/"
+    }
+  ],
+    
   "resources": [
     {
       "name": "membership-to-copyright-treaties",
       "path": "membership-to-copyright-treaties.csv",
       "mediatype": "text/csv",
       "bytes": 38681,
-      "sources": [{
-                  "name": "World Intellectual Property Organization",
-                  "web": "wipo.int/treaties/en/"
-                  }],
+
 
       "schema": {
         "fields": [
