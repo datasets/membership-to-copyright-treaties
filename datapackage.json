@@ -12,11 +12,11 @@
     
   "sources": [
     {
-                "name": "World Intellectual Property Organization",
-                "web": "http://wipo.int/treaties/en/"
+      "name": "World Intellectual Property Organization",
+      "path": "http://wipo.int/treaties/en/",
+      "title": "World Intellectual Property Organization"
     }
   ],
-    
   "resources": [
     {
       "name": "membership-to-copyright-treaties",
