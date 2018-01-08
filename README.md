@@ -8,7 +8,7 @@ This data provides the details of the membership by states to WIPO administered 
  * WIPO Copyright Treaty
  * WIPO Performances and Phonograms Treaty
 
-## Source
+## Data
 
 The data is taken from the tables found on WIPO’s website, it’s free and can be viewed for each treaty individually from [this link](wipo.int/treaties/en/).
 
