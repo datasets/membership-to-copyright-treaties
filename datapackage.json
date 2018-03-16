@@ -4,12 +4,11 @@
   "description": "",
   "licenses": [
     {
-      "url": "http://www.opendefinition.org/licenses/odc-pddl",
-      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
-      "id": "ODC-PDDL-1.0"
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
-    
   "sources": [
     {
       "name": "World Intellectual Property Organization",
@@ -23,8 +22,6 @@
       "path": "membership-to-copyright-treaties.csv",
       "mediatype": "text/csv",
       "bytes": 38521,
-
-
       "schema": {
         "fields": [
           {
