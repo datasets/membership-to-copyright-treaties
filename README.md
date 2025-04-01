@@ -26,6 +26,9 @@ The data is taken from the tables found on WIPO’s website, it’s free and can
 
 Note that WIPO administers other intellectual property treaties that cover subject matter outside copyright (e.g. trademarks) which are not included in this data package.
 
+## Automation
+Up-to-date (auto-updates every month) membership-to-copyright-treaties dataset could be found on the datahub.io: https://datahub.io/core/membership-to-copyright-treaties
+
 ## License
 
 These data are made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
