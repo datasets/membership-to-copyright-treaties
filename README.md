@@ -2,13 +2,23 @@
 
 This data provides the details of the membership by states to WIPO administered treaties on the subject matter of copyright, namely:
 
- * Beijing Treaty on Audiovisual Performances
- * Berne Convention for the Protection of Literary and Artistic Works
- * Brussels Convention Relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite
- * Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled
- * Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms
- * WIPO Copyright Treaty
- * WIPO Performances and Phonograms Treaty
+* Beijing Treaty on Audiovisual Performances
+* Berne Convention
+* Brussels Convention
+* Madrid Agreement (Indications of Source)
+* Marrakesh VIP Treaty
+* Nairobi Treaty
+* Paris Convention
+* Patent Law Treaty
+* Phonograms Convention
+* Riyadh Design Law Treaty
+* Rome Convention
+* Singapore Treaty on the Law of Trademarks
+* Trademark Law Treaty
+* Washington Treaty
+* WIPO Copyright Treaty (WCT)
+* WIPO GRATK Treaty
+* WIPO Performances and Phonograms Treaty (WPPT)
 
 ## Data
 
