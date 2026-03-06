@@ -19,7 +19,8 @@
   "resources": [
     {
       "name": "membership-to-copyright-treaties",
-      "path": "membership-to-copyright-treaties.csv",
+      "path": "data/membership-to-copyright-treaties.csv",
+      "format": "csv",
       "mediatype": "text/csv",
       "bytes": 38521,
       "schema": {
